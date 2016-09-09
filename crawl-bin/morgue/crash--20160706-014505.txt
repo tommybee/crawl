@@ -1,0 +1,128 @@
+ERROR: Could not find font 'contrib/fonts/DejaVuSansMono.ttf'
+
+
+Version: Dungeon Crawl Stone Soup 0.19-a0-920-gb70b166
+Platform: Windows
+Bits: 32
+Game mode: normal
+Tiles: yes
+
+Command line: C:\DEV\COMP\msys32\home\03987\crawl\bin\crawl.exe
+
+RC options:
+restart_after_game = true
+
+
+Unable to get stack trace on this platform.
+Unable to get stack trace on this platform.
+
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 5.4.0 on Jul  6 2016 at 01:30:57
+Build platform: i686-w64-mingw32
+Platform: i686-w64-mingw32
+CFLAGS: -O2 -pipe -DWINMM_PLAY_SOUNDS -D__USE_MINGW_ANSI_STDIO -DUSE_TILE -DUSE_TILE_LOCAL -DUSE_SDL -DUSE_GL -DUSE_FT -DUSE_SOUND -Wall -Wformat-security -Wundef -Wno-array-bounds -Wno-format-zero-length -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -Irltiles -isystem contrib/install/i686-w64-mingw32/include/SDL2 -isystem contrib/install/i686-w64-mingw32/include/freetype2 -isystem contrib/install/i686-w64-mingw32/include -DWIZARD -DASSERTS -DPROPORTIONAL_FONT="contrib/fonts/DejaVuSans.ttf" -DMONOSPACED_FONT="contrib/fonts/DejaVuSansMono.ttf" -DREGEX_PCRE -DCLUA_BINDINGS
+LDFLAGS: -O2 
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = ABSENT, level layout type  = ABSENT, absdepth0 = 0
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 0, need_save: 0, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_NO_CMD
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:    []
+Species: Yak
+Job:     Unemployed
+
+HP: 0/0; mods: 0/0
+MP: 0/0; mod: 0
+Stats: 0 (0) 0 (0) 0 (0)
+Position: (0, 0) <OoB>, god: No God (0), turn_is_over: 0, banished: 0
+
+Skills (mode: auto)
+Name            | can_train | train | training | level | points | progress
+Fighting        |           |   0   |     0    |    0  |      0 | 0/1
+Short Blades    |           |   0   |     0    |    0  |      0 | 0/59
+Long Blades     |           |   0   |     0    |    0  |      0 | 0/1
+Axes            |           |   0   |     0    |    0  |      0 | 0/1
+Maces & Flails  |           |   0   |     0    |    0  |      0 | 0/50
+Polearms        |           |   0   |     0    |    0  |      0 | 0/1
+Staves          |           |   0   |     0    |    0  |      0 | 0/0
+Slings          |           |   0   |     0    |    0  |      0 | 0/50
+Bows            |           |   0   |     0    |    0  |      0 | 0/1
+Crossbows       |           |   0   |     0    |    0  |      0 | 0/0
+Throwing        |           |   0   |     0    |    0  |      0 | 0/50
+Armour          |           |   0   |     0    |    0  |      0 | 0/1
+Dodging         |           |   0   |     0    |    0  |      0 | 0/0
+Stealth         |           |   0   |     0    |    0  |      0 | 0/50
+Shields         |           |   0   |     0    |    0  |      0 | 0/0
+Unarmed Combat  |           |   0   |     0    |    0  |      0 | 0/1
+Spellcasting    |           |   0   |     0    |    0  |      0 | 0/0
+Conjurations    |           |   0   |     0    |    0  |      0 | 0/50
+Hexes           |           |   0   |     0    |    0  |      0 | 0/1
+Charms          |           |   0   |     0    |    0  |      0 | 0/0
+Summonings      |           |   0   |     0    |    0  |      0 | 0/50
+Necromancy      |           |   0   |     0    |    0  |      0 | 0/1
+Translocations  |           |   0   |     0    |    0  |      0 | 0/0
+Transmutations  |           |   0   |     0    |    0  |      0 | 0/50
+Fire Magic      |           |   0   |     0    |    0  |      0 | 0/1
+Ice Magic       |           |   0   |     0    |    0  |      0 | 0/0
+Air Magic       |           |   0   |     0    |    0  |      0 | 0/50
+Earth Magic     |           |   0   |     0    |    0  |      0 | 0/1
+Poison Magic    |           |   0   |     0    |    0  |      0 | 0/0
+Invocations     |           |   0   |     0    |    0  |      0 | 0/42
+Evocations      |           |   0   |     0    |    0  |      0 | 0/1
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #59: 1
+
+Mutations:
+
+Inventory bugs:
+
+Equipment:
+
+}}}}}}}}}}}
+
+
+Screenshot:
+@
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+error (persist_to_string): >>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
